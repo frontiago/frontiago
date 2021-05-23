@@ -1,5 +1,5 @@
 ### Hi, it's me, Thiago, and i'm a developer 👋
-
+---
 #### Follow and contact me:
 <div>
   <a href = "mailto: thiagowfer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,8 +9,11 @@
   <a href="https://www.twitter.com/combopixels" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%239aff?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a>  
 </div>
 
+---
+
 ### About me
 - I used to workout a lot, but these days, i workout sometimes 
-- Love 2d video games
+- Love 2d games and pixel art
 - Have some design skills with Photoshop and UI/UX
 - Basic knowledge of digital marketing
+- Future entrepreneur
