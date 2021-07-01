@@ -12,8 +12,14 @@
 ---
 
 ### About me
-- I used to workout a lot, but these days, i workout sometimes 
+- Former Calisthenics Instructor
 - Love 2d games and pixel art
-- Have some design skills with Photoshop and UI/UX
+- Design skills using Photoshop and UI/UX with Figma
 - Basic knowledge of digital marketing
+- Watch animes
 - Future entrepreneur
+
+## Projects
+- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel)
+- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca)
+- [Loruki](https://ioruki.netlify.app)
