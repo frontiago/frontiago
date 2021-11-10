@@ -10,16 +10,22 @@
 </div>
 
 ---
+## Knowledges
+- HTML5 / CSS3 / Javascript
+- Beginner with React and the Javascript ecosystem
+- Graphic Design with Photoshop
+- UI/UX with Figma
+- Basic knowledge of Digital Marketing and Ads 
 
-### About me
+## Projects
+- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel)
+- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca)
+- [Loruki Clone](https://ioruki.netlify.app)
+- 
+### More About me
 - Former Calisthenics Instructor
 - Love 2d games and pixel art
 - Design skills using Photoshop and UI/UX with Figma
 - Basic knowledge of digital marketing
 - Watch animes
 - Future entrepreneur
-
-## Projects
-- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel)
-- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca)
-- [Loruki](https://ioruki.netlify.app)
