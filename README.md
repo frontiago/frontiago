@@ -23,9 +23,9 @@
 - [Loruki Clone](https://ioruki.netlify.app)
 - 
 ### More About me
-- Former Calisthenics Instructor
+- Use to be a Calisthenics Instructor
 - Love 2d games and pixel art
-- Design skills using Photoshop and UI/UX with Figma
+- Dream about create my own game
 - Basic knowledge of digital marketing
-- Watch animes
+- Watch animes and series
 - Future entrepreneur
