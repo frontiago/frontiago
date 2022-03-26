@@ -10,7 +10,7 @@
 </div>
 
 ---
-## Knowledges
+### Knowledges
 - HTML5 / CSS3 / Javascript
 - Beginner with SASS, Bootstrap 5 and Tailwind
 - Beginner with React and the Javascript ecosystem
@@ -18,11 +18,13 @@
 - UI / UX with Figma
 - Basic knowledge of Digital Marketing and Ads 
 
-## Projects
+### Newest Projects
+- [Pokedex](https://thiagowfer.github.io/pokedex/) (HTML, CSS, Javascript)
+
+### Older Projects
 - [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) (Using older bootstrap version)
 - [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) (Using older bootstrap version)
 - [Loruki Clone](https://ioruki.netlify.app) (No framework)
-
 
 ### More About me
 - Love animes and series 👺
