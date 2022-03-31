@@ -1,6 +1,6 @@
 ### Hello, i'm Thiago from Brazil, and my focus is on frontend development 👋
 
-#### I can speak english and studying spanish when i got free time.
+#### I can speak english and a little in spanish, when i got free time i like to study pixel art for 2d games.
 ---
 #### Follow and contact me:
 <div>
