@@ -1,6 +1,6 @@
-### Hello, i'm Thiago from Brazil, and my focus is on frontend development 👋
+### Hello, i'm Thiago Silva from Brazil, and my focus is on frontend development with HTML, CSS and Javascript. 👋
 
-#### I can speak english and a little in spanish, when i got free time i like to study pixel art for 2d games.
+#### I can speak english and a little in spanish, when i got free time i like to draw pixel art for 2d games.
 ---
 #### Follow and contact me:
 <div>
@@ -11,14 +11,14 @@
 
 ---
 ### Knowledges
-- HTML5 / CSS3 / Javascript
+- HTML5 / CSS3 / Javascript (Primary Focus)
+- Beginner with React (Primary Focus)
 - Beginner with SASS, Bootstrap 5 and Tailwind
-- Beginner with React and the Javascript ecosystem
 - Basic knowledge of Photoshop
-- UI / UX with Figma
-- Basic knowledge of Digital Marketing and Ads 
+- UI / UX with Figma 
+- Basic knowledge of Digital Marketing and Google Ads 
 
-### Newest Projects
+### Latest Projects
 - [Pokedex](https://thiagowfer.github.io/pokedex/) (HTML, CSS, Javascript)
 
 ### Older Projects
