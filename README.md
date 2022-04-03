@@ -1,6 +1,8 @@
-### Hello, i'm Thiago Silva from Brazil, and my focus is on frontend development with HTML, CSS and Javascript. 👋
+### Hello, i'm Thiago Silva from Brazil
 
-#### I can speak english and a little in spanish, when i got free time i like to draw pixel art for 2d games.
+#### My focus is on frontend development with HTML, CSS and Javascript. 👋
+
+#### I can speak english and a little in spanish, when i got free time i like to draw pixel art based in 2D games.
 ---
 #### Follow and contact me:
 <div>
@@ -11,8 +13,8 @@
 
 ---
 ### Knowledges
-- HTML5 / CSS3 / Javascript (Primary Focus)
-- Beginner with React (Primary Focus)
+- HTML5 / CSS3 / Javascript **(Primary Focus)**
+- Beginner with React **(Primary Focus)**
 - Beginner with SASS, Bootstrap 5 and Tailwind
 - Basic knowledge of Photoshop
 - UI / UX with Figma 
