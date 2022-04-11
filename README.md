@@ -1,7 +1,7 @@
 ## Hello, i'm Thiago Silva from Brazil
 
-- ### My focus is on frontend development with HTML, CSS and Javascript. 
-- ### I can speak english and a little in spanish.
+- #### My focus is on frontend development with HTML, CSS, Javascript and React. 
+- #### I can speak english and a little in spanish.
 ---
 #### Follow and contact me:
 <div style="display: inline_block">
@@ -20,12 +20,11 @@
 ---
 ### Focus now          
 <div style="display: inline_block; margin:-10px 0 15px 0;"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div> 
-
 
 ---
 
@@ -35,6 +34,5 @@
 | [Edge Ledger](https://thiagowfer.github.io/pokedex/)      | [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca)          | [Type-n-Speak](https://thiagowfer.github.io/text-to-speech/)                 |
 | [Loruki Clone](https://ioruki.netlify.app)      |          | [Pushing Blocks](https://thiagowfer.github.io/pushing-blocks/)           |
 | [Rotate Nav](https://github.com/thiagowfer/rotate-nav)      |           | [Github Finder](https://thiagowfer.github.io/github-finder/)                |
-|       |           | [Maze Game](https://thiagowfer.github.io/maze-game/)                |
-|       |          |                  |
+|       |           | [Maze Game](https://thiagowfer.github.io/maze-game/)                |       
 
