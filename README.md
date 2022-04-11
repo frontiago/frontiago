@@ -1,7 +1,7 @@
 ## Hello, i'm Thiago Silva from Brazil
 
-- #### My focus is on frontend development with HTML, CSS, Javascript and React. 
-- #### I can speak english and a little in spanish.
+-  My focus is on frontend development with HTML, CSS, Javascript and React. 
+- I can speak english and a little in spanish.
 ---
 #### Follow and contact me:
 <div style="display: inline_block">
