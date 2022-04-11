@@ -31,7 +31,7 @@
 | Latest Projects | Landing Pages | Older Projects  |
 | -----------    | -----------   | -----------      |
 | [Pokedex](https://thiagowfer.github.io/pokedex/)         | [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel)         |     [MyBookList](https://thiagowfer.github.io/mybooklist-app/)       |
-| [Edge Ledger](https://thiagowfer.github.io/pokedex/)      | [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca)          | [Type-n-Speak](https://thiagowfer.github.io/text-to-speech/)                 |
+| [Edge Ledger](https://thiagowfer.github.io/edge-ledger/)      | [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca)          | [Type-n-Speak](https://thiagowfer.github.io/text-to-speech/)                 |
 | [Loruki Clone](https://ioruki.netlify.app)      |          | [Pushing Blocks](https://thiagowfer.github.io/pushing-blocks/)           |
 | [Rotate Nav](https://github.com/thiagowfer/rotate-nav)      |           | [Github Finder](https://thiagowfer.github.io/github-finder/)                |
 |       |           | [Maze Game](https://thiagowfer.github.io/maze-game/)                |       
