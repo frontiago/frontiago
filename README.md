@@ -36,7 +36,7 @@
 ---
 
 ## Older Projects
-- [Loruki Clone](https://ioruki.netlify.app) -> ( Cloud Hosting ) -> [view repository](https://github.com/thiagowfer/loruki-clone)
+- [Loruki Clone](https://ioruki.netlify.app) -> ( Cloud Hosting ) -> [view repository](https://github.com/thiagowfer/loruki-website)
 - [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> ( Lawyer Website ) -> [view repository](https://github.com/thiagowfer/jackson-fonseca)
 - [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> ( Website for affiliate marketing ) -> [view repository](https://github.com/thiagowfer/ponto-pixel)
 - [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> ( CRUD in Javascript to save book info) -> [view repository](https://github.com/thiagowfer/mybooklist-app) 
