@@ -29,18 +29,19 @@
 ---
 
 ## Latest Projects
-- [Movie App](https://thiagowfer.github.io/movie-app/) -> ( Search movies with TMDB API ) -> [view repository](https://github.com/thiagowfer/movie-app)
-- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> ( Financial Website ) -> [view repository](https://github.com/thiagowfer/edge-ledger) 
-- [Pokedex](https://thiagowfer.github.io/pokedex) -> ( Pokemon Cards ) -> [view repository](https://github.com/thiagowfer/pokedex)
+- [Movie App](https://thiagowfer.github.io/movie-app/) -> ( Search movies with TMDB API ) -> [view repository](https://github.com/thiagowfer/movie-app )
+- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> ( Financial Website ) -> [view repository](https://github.com/thiagowfer/edge-ledger ) 
+- [HDC Host](https://thiagowfer.github.io/hdc-host/) -> ( Cloud Host Website ) -> [view repository](https://github.com/thiagowfer/hdc-host ) 
+- [Pokedex](https://thiagowfer.github.io/pokedex) -> ( Pokemon Cards ) -> [view repository](https://github.com/thiagowfer/pokedex )
 
 ---
 
 ## Older Projects
-- [Loruki Clone](https://ioruki.netlify.app) -> ( Cloud Hosting ) -> [view repository](https://github.com/thiagowfer/loruki-website)
-- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> ( Lawyer Website ) -> [view repository](https://github.com/thiagowfer/jackson-fonseca)
-- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> ( Website for affiliate marketing ) -> [view repository](https://github.com/thiagowfer/ponto-pixel)
-- [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> ( CRUD in Javascript to save book info) -> [view repository](https://github.com/thiagowfer/mybooklist-app) 
+- [Loruki Clone](https://ioruki.netlify.app) -> ( Cloud Host Website ) -> [view repository](https://github.com/thiagowfer/loruki-website )
+- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> ( Lawyer Website ) -> [view repository](https://github.com/thiagowfer/jackson-fonseca )
+- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> ( Website for affiliate marketing ) -> [view repository](https://github.com/thiagowfer/ponto-pixel )
+- [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> ( CRUD in Javascript to save book info ) -> [view repository](https://github.com/thiagowfer/mybooklist-app) 
 - [Github Finder](https://thiagowfer.github.io/github-finder/) -> ( Search for any github profile ) -> [view repository](https://github.com/thiagowfer/github-finder)
-- [Pushing Blocks](https://thiagowfer.github.io/pushing-blocks/) -> ( Learning collisions in Javascript ) -> [view repository](https://github.com/thiagowfer/pushing-blocks)
-- [Maze Game](https://thiagowfer.github.io/maze-game/) -> ( A maze and a character and camera movement) -> [view repository](https://github.com/thiagowfer/maze-game)
+- [Pushing Blocks](https://thiagowfer.github.io/pushing-blocks/) -> ( Learning collisions in Javascript ) -> [view repository](https://github.com/thiagowfer/pushing-blocks )
+- [Maze Game](https://thiagowfer.github.io/maze-game/) -> ( A maze and a character and camera movement ) -> [view repository](https://github.com/thiagowfer/maze-game)
 
