@@ -37,32 +37,23 @@
 ## Projects in ReactJS
 
 - [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view repository](https://github.com/thiagowfer/sujeitolink)
-
-- [Crypto Prices](https://react-cryptoprices.netlify.app) -> ( URL Shortener using Bitly API ) -> [view repository](https://github.com/thiagowfer/crypto-prices)
-
-- [Buscador CEP](https://react-buscador-cep.netlify.app) -> ( URL Shortener using Bitly API ) -> [view repository](https://github.com/thiagowfer/buscador-cep)
+- [Crypto Prices](https://react-cryptoprices.netlify.app) -> ( See cryptocurrencies and prices ) -> [view repository](https://github.com/thiagowfer/crypto-prices)
+- [Buscador CEP](https://react-buscador-cep.netlify.app) -> ( Search for brazilian postal code ) -> [view repository](https://github.com/thiagowfer/buscador-cep)
 
 
 ---
 
 
-## Websites (Html, Css and Javascript)
+## Websites
 - [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> ( Financial Website ) -> [view repository](https://github.com/thiagowfer/edge-ledger ) 
-
 - [HDC Host](https://thiagowfer.github.io/hdc-host/) -> ( Cloud Host Website ) -> [view repository](https://github.com/thiagowfer/hdc-host ) 
-
-
 - [Loruki](https://ioruki.netlify.app) -> ( Cloud Host Website ) -> [view repository](https://github.com/thiagowfer/loruki-website )
-
 - [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> ( Lawyer Website ) -> [view repository](https://github.com/thiagowfer/jackson-fonseca )
-
 - [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> ( Website for affiliate marketing ) -> [view repository](https://github.com/thiagowfer/ponto-pixel )
 
 ---
 
 ## Other Projects 
 - [Movie App](https://thiagowfer.github.io/movie-app/) -> ( Search movies with TMDB API ) -> [view repository](https://github.com/thiagowfer/movie-app )
-
 - [Pokedex](https://thiagowfer.github.io/pokedex) -> ( Pokemon Cards ) -> [view repository](https://github.com/thiagowfer/pokedex )
-
 - [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> ( CRUD in Javascript to save book info in localStorage ) -> [view repository](https://github.com/thiagowfer/mybooklist-app) 
