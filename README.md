@@ -8,20 +8,21 @@
 #### Follow and contact me:
 <div style="display: inline_block; margin:-10px 0 15px 0;">
   <a href="https://www.linkedin.com/in/thiago-silva-80484b2b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/thiagowfer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/thiaguitofer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/thiagowfer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
 ### Hard Skills
 - HTML5 / CSS3 / Javascript / GIT 
-- Beginner with React 
+- Beginner with ReactJS  
 - SASS, Bootstrap and Tailwind
 - Basic UX / UI and design with Figma
 
 ---
 
-### Main focus to study and work        
+### Main focus to work and study    
 <div style="display: inline_block; margin:-10px 0 15px 0;">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -36,24 +37,36 @@
 
 ## Projects in ReactJS
 
-- [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view repository](https://github.com/thiagowfer/sujeitolink)
-- [Crypto Prices](https://react-cryptoprices.netlify.app) -> ( See cryptocurrencies and prices ) -> [view repository](https://github.com/thiagowfer/crypto-prices)
-- [Buscador CEP](https://react-buscador-cep.netlify.app) -> ( Search for brazilian postal code ) -> [view repository](https://github.com/thiagowfer/buscador-cep)
+- [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view code](https://github.com/thiagowfer/sujeitolink)
+- [Crypto Prices](https://react-cryptoprices.netlify.app) -> ( See cryptocurrencies and prices ) -> [view code](https://github.com/thiagowfer/crypto-prices)
+- [Buscador CEP](https://react-buscador-cep.netlify.app) -> ( Search for brazilian postal code ) -> [view code](https://github.com/thiagowfer/buscador-cep)
 
 
 ---
 
 
 ## Websites
-- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> ( Financial Website ) -> [view repository](https://github.com/thiagowfer/edge-ledger ) 
-- [HDC Host](https://thiagowfer.github.io/hdc-host/) -> ( Cloud Host Website ) -> [view repository](https://github.com/thiagowfer/hdc-host ) 
-- [Loruki](https://ioruki.netlify.app) -> ( Cloud Host Website ) -> [view repository](https://github.com/thiagowfer/loruki-website )
-- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> ( Lawyer Website ) -> [view repository](https://github.com/thiagowfer/jackson-fonseca )
-- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> ( Website for affiliate marketing ) -> [view repository](https://github.com/thiagowfer/ponto-pixel )
+- [Loruki](https://ioruki.netlify.app) -> ( Cloud Host Website ) -> [view code](https://github.com/thiagowfer/loruki-website )
+- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> ( Financial Website ) -> [view code](https://github.com/thiagowfer/edge-ledger ) 
+- [HDC Host](https://thiagowfer.github.io/hdc-host/) -> ( Cloud Host Website ) -> [view code](https://github.com/thiagowfer/hdc-host ) 
+- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> ( Lawyer Website ) -> [view code](https://github.com/thiagowfer/jackson-fonseca )
+- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> ( Website for affiliate marketing ) -> [view code](https://github.com/thiagowfer/ponto-pixel )
 
 ---
 
 ## Other Projects 
-- [Movie App](https://thiagowfer.github.io/movie-app/) -> ( Search movies with TMDB API ) -> [view repository](https://github.com/thiagowfer/movie-app )
-- [Pokedex](https://thiagowfer.github.io/pokedex) -> ( Pokemon Cards ) -> [view repository](https://github.com/thiagowfer/pokedex )
-- [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> ( CRUD in Javascript to save book info in localStorage ) -> [view repository](https://github.com/thiagowfer/mybooklist-app) 
+- [Movie App](https://thiagowfer.github.io/movie-app/) -> ( Search movies with TMDB API ) -> [view code](https://github.com/thiagowfer/movie-app )
+- [Pokedex](https://thiagowfer.github.io/pokedex) -> ( Pokemon Cards ) -> [view code](https://github.com/thiagowfer/pokedex )
+- [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> ( CRUD in Javascript to save book info in localStorage ) -> [view code](https://github.com/thiagowfer/mybooklist-app) 
+
+---
+### What i will study in the future
+<div style="display: inline_block; margin:-10px 0 15px 0;">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+</div> 
