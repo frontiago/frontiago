@@ -39,6 +39,8 @@
 
 ## Projects in ReactJS
 
+- [Quiz App](https://reacttech-quiz.vercel.app/) -> ( A react quiz about technology ) -> [view code](https://github.com/thiagowfer/react-quiz)
+
 - [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view code](https://github.com/thiagowfer/sujeitolink)
 - [Crypto Prices](https://react-cryptoprices.netlify.app) -> ( See cryptocurrencies and prices ) -> [view code](https://github.com/thiagowfer/crypto-prices)
 - [Buscador CEP](https://react-buscador-cep.netlify.app) -> ( Search for brazilian postal code ) -> [view code](https://github.com/thiagowfer/buscador-cep)
