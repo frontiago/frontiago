@@ -48,7 +48,7 @@
 
 ## Projects in HTML / CSS / Javascript
 - [Pokedex](https://thiagowfer.github.io/pokedex) ->  Pokemon Cards  -> [view code](https://github.com/thiagowfer/pokedex)
-- [Todo List](https://thiagowfer.github.io/pokedex) ->  Add and remove tasks -> [view code](https://github.com/thiagowfer/pokedex)
+- [Todo List](https://thiagowfer.github.io/todo-list-js/) ->  Add and remove tasks -> [view code](https://github.com/thiagowfer/pokedex)
 - [Movie App](https://thiagowfer.github.io/movie-app/) -> Search movies with TMDB API -> [view code](https://github.com/thiagowfer/movie-app )
 - [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> Add and remove book, save in localStorage -> [view code](https://github.com/thiagowfer/mybooklist-app) 
 - [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> Lawyer Website  -> [view code](https://github.com/thiagowfer/jackson-fonseca )
