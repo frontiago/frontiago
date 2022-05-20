@@ -20,19 +20,19 @@
 - HTML5 / CSS3 / Javascript / GIT 
 - Beginner with ReactJS  
 - SASS, Bootstrap and Tailwind
+- Basic PHP / Mysql and Wordpress
 - Basic UX / UI and design with Figma
-
+- Fluency in English and learning Spanish
 ---
 
-### Main focus to work and study    
+### Main focus to work and study   
+
 <div style="display: inline_block; margin:-10px 0 15px 0;">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
   <img align="center" alt="HTML" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
  <img align="center" alt="HTML" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
  <img align="center" alt="HTML" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div> 
 
 ---
@@ -46,28 +46,26 @@
 
 ---
 
-## Websites
-- [Loruki](https://ioruki.netlify.app) -> ( Cloud Host Website ) -> [view code](https://github.com/thiagowfer/loruki-website )
-- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> ( Financial Website ) -> [view code](https://github.com/thiagowfer/edge-ledger ) 
-- [HDC Host](https://thiagowfer.github.io/hdc-host/) -> ( Cloud Host Website ) -> [view code](https://github.com/thiagowfer/hdc-host ) 
-- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> ( Lawyer Website ) -> [view code](https://github.com/thiagowfer/jackson-fonseca )
-- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> ( Website for affiliate marketing ) -> [view code](https://github.com/thiagowfer/ponto-pixel )
+## Projects in HTML / CSS / Javascript
+- [Pokedex](https://thiagowfer.github.io/pokedex) ->  Pokemon Cards  -> [view code](https://github.com/thiagowfer/pokedex)
+- [Todo List](https://thiagowfer.github.io/pokedex) ->  Add and remove tasks -> [view code](https://github.com/thiagowfer/pokedex)
+- [Movie App](https://thiagowfer.github.io/movie-app/) -> Search movies with TMDB API -> [view code](https://github.com/thiagowfer/movie-app )
+- [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> Add and remove book, save in localStorage -> [view code](https://github.com/thiagowfer/mybooklist-app) 
+- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> Lawyer Website  -> [view code](https://github.com/thiagowfer/jackson-fonseca )
+- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> Website for affiliate marketing  -> [view code](https://github.com/thiagowfer/ponto-pixel )
+- [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/loruki-website )
+- [HDC Host](https://thiagowfer.github.io/hdc-host/) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/hdc-host ) 
 
 ---
 
 ## Other Projects 
-- [Movie App](https://thiagowfer.github.io/movie-app/) -> ( Search movies with TMDB API ) -> [view code](https://github.com/thiagowfer/movie-app )
-- [Pokedex](https://thiagowfer.github.io/pokedex) -> ( Pokemon Cards ) -> [view code](https://github.com/thiagowfer/pokedex )
-- [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> ( CRUD in Javascript to save book info in localStorage ) -> [view code](https://github.com/thiagowfer/mybooklist-app) 
+
 
 ---
 ### What i will study in the future
 <div style="display: inline_block; margin:-10px 0 15px 0;">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-
   <img align="center" alt="HTML" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
  <img align="center" alt="HTML" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-
  <img align="center" alt="HTML" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div> 
