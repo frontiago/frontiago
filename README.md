@@ -53,5 +53,3 @@
 - [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> Website for affiliate marketing  -> [view code](https://github.com/thiagowfer/ponto-pixel )
 - [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/loruki-website )
 - [HDC Host](https://thiagowfer.github.io/hdc-host/) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/hdc-host ) 
-
----
