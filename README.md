@@ -49,7 +49,7 @@
 - [Todo List](https://thiagowfer.github.io/todo-list-js/) ->  Add and remove tasks -> [view code](https://github.com/thiagowfer/todo-list-js)
 - [Movie App](https://thiagowfer.github.io/movie-app/) -> Search movies with TMDB API -> [view code](https://github.com/thiagowfer/movie-app )
 - [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> Add and remove book, save in localStorage -> [view code](https://github.com/thiagowfer/mybooklist-app) 
-- [MovieFlix](thiagowfer.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/thiagowfer/movie-website) 
+- [MovieFlix](https://thiagowfer.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/thiagowfer/movie-website) 
 - [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> Lawyer Website  -> [view code](https://github.com/thiagowfer/jackson-fonseca )
 - [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> Website for affiliate marketing  -> [view code](https://github.com/thiagowfer/ponto-pixel )
 - [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/loruki-website )
