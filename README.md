@@ -3,8 +3,6 @@
 - My focus is on frontend development with HTML, CSS, Javascript and React. 
 - I can speak english and a little in spanish.
 
----
-
 #### Follow and contact me:
 <div style="display: inline_block; margin:-10px 0 15px 0;">
   <a href="https://www.linkedin.com/in/thiagowfer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
