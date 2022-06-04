@@ -20,7 +20,6 @@
 - Basic PHP / Mysql and Wordpress
 - Basic UX / UI and design with Figma
 - Fluency in English and learning Spanish
----
 
 ### Main focus to work and study   
 
