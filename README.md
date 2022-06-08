@@ -34,6 +34,7 @@
 
 ## Projects in ReactJS
 
+- [React Portfolio Website](https://react-portfolio-dev.netlify.app) -> ( React website landng page ) -> [view code](https://github.com/thiagowfer/react-portfolio)
 - [Quiz App](https://reacttech-quiz.vercel.app/) -> ( A react quiz about technology ) -> [view code](https://github.com/thiagowfer/react-quiz)
 - [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view code](https://github.com/thiagowfer/sujeitolink)
 - [Crypto Prices](https://react-cryptoprices.netlify.app) -> ( See cryptocurrencies and prices ) -> [view code](https://github.com/thiagowfer/crypto-prices)
