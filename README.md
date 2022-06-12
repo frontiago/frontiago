@@ -16,7 +16,7 @@
 ### Hard Skills
 - HTML5 / CSS3 / Javascript / GIT 
 - Beginner with ReactJS  
-- SASS, Bootstrap and Tailwind
+- Tailwind, Bootstrap and SASS
 - Basic PHP / Mysql and Wordpress
 - Basic UX / UI and design with Figma
 - Fluency in English and learning Spanish
