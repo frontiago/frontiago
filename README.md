@@ -1,7 +1,7 @@
 ## Hello, i'm Thiago Silva from Brazil
 
-- My focus is on frontend development with HTML, CSS, Javascript and React. 
-- I can speak english and a little in spanish.
+- My focus is on frontend development with HTML, CSS, Javascript and ReactJS. 
+- I can speak portuguese, english and a little in spanish.
 
 #### Follow and contact me:
 <div style="display: inline_block; margin:-10px 0 15px 0;">
@@ -16,11 +16,10 @@
 
 ### Hard Skills
 - HTML5 / CSS3 / Javascript / GIT 
-- Beginner with ReactJS  
-- Tailwind, Bootstrap and SASS
-- Basic PHP / Mysql and Wordpress
-- Basic UX / UI and design with Figma
-- Fluency in English and learning Spanish
+- ReactJS  
+- Tailwind, Bootstrap
+- Basic UX / UI design with Figma 
+- Fluency in Portuguese, English and learning Spanish
 
 ### Main focus to work and study   
 
@@ -43,14 +42,15 @@
 
 ---
 
-## Projects in HTML / CSS / Javascript
-- [Pokedex](https://thiagowfer.github.io/pokedex) ->  Pokemon Cards  -> [view code](https://github.com/thiagowfer/pokedex)
-- [Movie App](https://thiagowfer.github.io/movie-app/) -> Search movies with TMDB API -> [view code](https://github.com/thiagowfer/movie-app )
-- [Todo List](https://thiagowfer.github.io/todo-list-js/) ->  Add and remove tasks -> [view code](https://github.com/thiagowfer/todo-list-js)
-- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> Website about business -> [view code](https://github.com/thiagowfer/edge-ledger)
-- [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> Add and remove book, save in localStorage -> [view code](https://github.com/thiagowfer/mybooklist-app) 
-- [MovieFlix](https://thiagowfer.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/thiagowfer/movie-website) 
-- [Jackson Fonseca](https://thiagowfer.github.io/jackson-fonseca) -> Lawyer Website  -> [view code](https://github.com/thiagowfer/jackson-fonseca )
-- [Ponto Pixel](https://thiagowfer.github.io/ponto-pixel) -> Website for affiliate marketing  -> [view code](https://github.com/thiagowfer/ponto-pixel )
+## Websites in HTML / CSS / Javascript
 - [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/loruki-website )
+- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> Website about business -> [view code](https://github.com/thiagowfer/edge-ledger)
+- [AirTravel](https://thiagowfer.github.io/airtravel/) -> Website about business -> [view code](https://github.com/thiagowfer/airtravel)
+- [MovieFlix](https://thiagowfer.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/thiagowfer/movie-website) 
 - [HDC Host](https://thiagowfer.github.io/hdc-host/) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/hdc-host ) 
+- [Movie App](https://thiagowfer.github.io/movie-app/) -> Search movies with TMDB API -> [view code](https://github.com/thiagowfer/movie-app )
+
+## Other projects in HTML / CSS / Javascript
+- [Pokedex](https://thiagowfer.github.io/pokedex) ->  Pokemon Cards  -> [view code](https://github.com/thiagowfer/pokedex)
+- [Todo List](https://thiagowfer.github.io/todo-list-js/) ->  Add and remove tasks -> [view code](https://github.com/thiagowfer/todo-list-js)
+- [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> Add and remove book, save in localStorage -> [view code](https://github.com/thiagowfer/mybooklist-app) 
