@@ -1,6 +1,7 @@
 ## Hello, i'm Thiago Silva from Brazil
 
-- My focus is on frontend development with HTML, CSS, Javascript and ReactJS. 
+- My focus now is on frontend development with HTML, CSS, Javascript and ReactJS. 
+- My future goal is to become a Fullstack Developer and learn NodeJS and React Native
 - I can speak portuguese, english and a little in spanish.
 
 #### Follow and contact me:
@@ -32,8 +33,17 @@
 
 ---
 
-## Projects in ReactJS
+## Websites in HTML / CSS / Javascript
+- [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/loruki-website )
+- [MovieFlix](https://thiagowfer.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/thiagowfer/movie-website) 
+- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> Website about business -> [view code](https://github.com/thiagowfer/edge-ledger)
+- [AirTravel](https://thiagowfer.github.io/airtravel/) -> Website about business -> [view code](https://github.com/thiagowfer/airtravel)
+- [HDC Host](https://thiagowfer.github.io/hdc-host/) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/hdc-host ) 
+- [Movie App](https://thiagowfer.github.io/movie-app/) -> Search movies with TMDB API -> [view code](https://github.com/thiagowfer/movie-app )
 
+---
+
+## Projects in ReactJS
 - [React Portfolio Website](https://react-portfolio-dev.netlify.app) -> ( React website landng page ) -> [view code](https://github.com/thiagowfer/react-portfolio)
 - [Quiz App](https://reacttech-quiz.vercel.app/) -> ( A react quiz about technology ) -> [view code](https://github.com/thiagowfer/react-quiz)
 - [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view code](https://github.com/thiagowfer/sujeitolink)
@@ -41,14 +51,6 @@
 - [Busca CEP](https://react-busca-cep.netlify.app) -> ( Search for brazilian postal code ) -> [view code](https://github.com/thiagowfer/busca-cep)
 
 ---
-
-## Websites in HTML / CSS / Javascript
-- [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/loruki-website )
-- [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> Website about business -> [view code](https://github.com/thiagowfer/edge-ledger)
-- [AirTravel](https://thiagowfer.github.io/airtravel/) -> Website about business -> [view code](https://github.com/thiagowfer/airtravel)
-- [MovieFlix](https://thiagowfer.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/thiagowfer/movie-website) 
-- [HDC Host](https://thiagowfer.github.io/hdc-host/) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/hdc-host ) 
-- [Movie App](https://thiagowfer.github.io/movie-app/) -> Search movies with TMDB API -> [view code](https://github.com/thiagowfer/movie-app )
 
 ## Other projects in HTML / CSS / Javascript
 - [Pokedex](https://thiagowfer.github.io/pokedex) ->  Pokemon Cards  -> [view code](https://github.com/thiagowfer/pokedex)
