@@ -1,4 +1,4 @@
-## Hello, i'm Thiago Silva from Brazil
+## Hello, i'm Thiago Ferreira from Brazil
 
 - My focus now is on frontend development with HTML, CSS, Javascript and ReactJS. 
 - My future goal is to become a Fullstack Developer and learn NodeJS and React Native
@@ -33,7 +33,7 @@
 
 ---
 
-## Websites in HTML / CSS / Javascript
+### Websites in HTML / CSS / Javascript
 - [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/loruki-website )
 - [MovieFlix](https://thiagowfer.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/thiagowfer/movie-website) 
 - [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> Website about business -> [view code](https://github.com/thiagowfer/edge-ledger)
@@ -43,7 +43,7 @@
 
 ---
 
-## Projects in ReactJS
+### Projects in ReactJS
 - [React Portfolio Website](https://react-portfolio-dev.netlify.app) -> ( React website landng page ) -> [view code](https://github.com/thiagowfer/react-portfolio)
 - [Quiz App](https://reacttech-quiz.vercel.app/) -> ( A react quiz about technology ) -> [view code](https://github.com/thiagowfer/react-quiz)
 - [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view code](https://github.com/thiagowfer/sujeitolink)
@@ -52,7 +52,7 @@
 
 ---
 
-## Other projects in HTML / CSS / Javascript
+### Other projects in HTML / CSS / Javascript
 - [Pokedex](https://thiagowfer.github.io/pokedex) ->  Pokemon Cards  -> [view code](https://github.com/thiagowfer/pokedex)
 - [Todo List](https://thiagowfer.github.io/todo-list-js/) ->  Add and remove tasks -> [view code](https://github.com/thiagowfer/todo-list-js)
 - [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> Add and remove book, save in localStorage -> [view code](https://github.com/thiagowfer/mybooklist-app) 
