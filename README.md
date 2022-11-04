@@ -1,8 +1,7 @@
 ## Hello, i'm Thiago Ferreira from Brazil
 
 - My focus now is on frontend development with HTML, CSS, Javascript and ReactJS. 
-- My future goal is to become a Fullstack Developer and learn NodeJS and React Native
-- I can speak portuguese, english and a little in spanish.
+- My future goal is to become a Fullstack Developer with ReactJS, NodeJS and React Native
 
 #### Follow and contact me:
 <div style="display: inline_block; margin:-10px 0 15px 0;">
@@ -16,11 +15,11 @@
 ---
 
 ### Hard Skills
-- HTML5 / CSS3 / Javascript / GIT 
+- HTML5 | CSS3 | Javascript | GIT 
 - ReactJS  
 - Tailwind, Bootstrap
-- Basic UX / UI design with Figma 
-- Fluency in Portuguese, English and learning Spanish
+- Basic UX | UI design and Figma 
+- Can speak English, Portuguese and a little in Spanish
 
 ### Main focus to work and study   
 
@@ -33,7 +32,7 @@
 
 ---
 
-### Websites in HTML / CSS / Javascript
+### Websites in HTML | CSS | Javascript
 - [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/thiagowfer/loruki-website )
 - [MovieFlix](https://thiagowfer.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/thiagowfer/movie-website) 
 - [Edge Ledger](https://thiagowfer.github.io/edge-ledger/) -> Website about business -> [view code](https://github.com/thiagowfer/edge-ledger)
@@ -52,7 +51,7 @@
 
 ---
 
-### Other projects in HTML / CSS / Javascript
+### Other projects in HTML | CSS | Javascript
 - [Pokedex](https://thiagowfer.github.io/pokedex) ->  Pokemon Cards  -> [view code](https://github.com/thiagowfer/pokedex)
 - [Todo List](https://thiagowfer.github.io/todo-list-js/) ->  Add and remove tasks -> [view code](https://github.com/thiagowfer/todo-list-js)
 - [MyBookList](https://thiagowfer.github.io/mybooklist-app/) -> Add and remove book, save in localStorage -> [view code](https://github.com/thiagowfer/mybooklist-app) 
