@@ -19,7 +19,7 @@
 - ReactJS  
 - Tailwind, Bootstrap
 - Basic UX | UI design and Figma 
-- Can speak English, Portuguese and a little in Spanish
+- Speak English, Portuguese and a little in Spanish
 
 ### Main focus to work and study   
 
