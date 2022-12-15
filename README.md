@@ -1,7 +1,6 @@
 ## Hello, i'm Thiago Ferreira from Brazil
 
-- My focus now is on frontend development with HTML, CSS, Javascript and ReactJS. 
-- My future goal is to become a Fullstack Developer with ReactJS, NodeJS and React Native
+- My focus is on frontend development with HTML, CSS, Javascript and ReactJS. 
 
 #### Follow and contact me:
 <div style="display: inline_block; margin:-10px 0 15px 0;">
