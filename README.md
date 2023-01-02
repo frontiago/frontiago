@@ -20,6 +20,8 @@
 - Basic UX | UI design and Figma 
 - Speak English, Portuguese and a little in Spanish
 
+---
+
 ### My Tech Stack 
 
 <div style="display: inline_block; margin:-10px 0 15px 0;">
