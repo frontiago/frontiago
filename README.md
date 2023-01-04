@@ -49,6 +49,7 @@
 ---
 
 ### Projects in ReactJS
+- [Huddle Page](https://huddlelp.vercel.app/)) -> ( Huddle Landing Page ) -> [view code](https://github.com/frontiago/huddle-lp)
 - [React Portfolio Website](https://react-portfolio-dev.netlify.app) -> ( React website landng page ) -> [view code](https://github.com/frontiago/react-portfolio)
 - [Quiz App](https://reacttech-quiz.vercel.app/) -> ( A react quiz about technology ) -> [view code](https://github.com/frontiago/react-quiz)
 - [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view code](https://github.com/frontiago/sujeitolink)
