@@ -1,6 +1,6 @@
 ## Hello, i'm Thiago Ferreira from Brazil
 
-- My focus is on frontend development with HTML5, CSS3, Javascript and ReactJS. 
+- My focus is on front-end development with HTML5, CSS3, Javascript and ReactJS. 
 
 #### Follow and contact me:
 <div style="display: inline_block; margin:-10px 0 15px 0;">
