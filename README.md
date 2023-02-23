@@ -15,14 +15,15 @@
 
 ### Hard Skills
 - HTML5 | CSS3 | Javascript | GIT 
-- ReactJS  
-- Tailwind, Bootstrap
-- Basic UX | UI design and Figma 
+- ReactJS, Styled Components  
+- Tailwind, Bootstrap, SASS
+- Knowledge about UX | UI
+- Graphic Design with Photoshop and Figma
 - Speak English, Portuguese and a little in Spanish
 
 ---
 
-### My Tech Stack 
+### My Tech Stack at the moment 
 
 <div style="display: inline_block; margin:-10px 0 15px 0;">
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,29 +33,27 @@
 <br> <br> 
  <img align="center" alt="HTML" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
  <img align="center" alt="HTML" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
- <img align="center" alt="HTML" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 
 </div> 
 
 ---
 
 ### Websites in HTML | CSS | Javascript
-- [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/frontiago/loruki-website )
-- [MovieFlix](https://frontiago.github.io/movie-website/) -> Website of Movies -> [view code](https://github.com/frontiago/movie-website) 
 - [Edge Ledger](https://frontiago.github.io/edge-ledger/) -> Website about business -> [view code](https://github.com/frontiago/edge-ledger)
+- [Loruki](https://ioruki.netlify.app) -> Cloud Host Website -> [view code](https://github.com/frontiago/loruki-website )
+- [Sneakers Ecommerce](https://frontiago.github.io/sneakers-ecommerce/) -> Sneakers Landing Page -> [view code](https://github.com/frontiago/sneakers-ecommerce) 
 - [AirTravel](https://frontiago.github.io/airtravel/) -> Website about business -> [view code](https://github.com/frontiago/airtravel)
 - [HDC Host](https://frontiago.github.io/hdc-host/) -> Cloud Host Website -> [view code](https://github.com/frontiago/hdc-host ) 
-- [Movie App](https://frontiago.github.io/movie-app/) -> Search movies with TMDB API -> [view code](https://github.com/frontiago/movie-app )
-
 ---
 
 ### Projects in ReactJS
+- [Rick and Morty Wiki](https://frontiago-react-rick-morty.vercel.app/) -> ( Rick and Morty Wiki with API ) -> [view code](https://github.com/frontiago/react-rick-morty)
+- [LandaTech](https://landatech.vercel.app/) -> ( I.T Company ) -> [view code](https://github.com/frontiago/landatech)
+- [Best Eats](https://frontiago-best-eats.vercel.app/) -> ( Food Website ) -> [view code](https://github.com/frontiago/best-eats)
 - [Huddle Page](https://huddlelp.vercel.app/) -> ( Huddle Landing Page ) -> [view code](https://github.com/frontiago/huddle-lp)
-- [React Portfolio Website](https://react-portfolio-dev.netlify.app) -> ( React website landng page ) -> [view code](https://github.com/frontiago/react-portfolio)
-- [Quiz App](https://reacttech-quiz.vercel.app/) -> ( A react quiz about technology ) -> [view code](https://github.com/frontiago/react-quiz)
+- [Food Props](https://frontiago-food-props.vercel.app/) -> ( Burger Restaurant ) -> [view code](https://github.com/frontiago/huddle-lp)
 - [Sujeito Link](https://sujeito-link.netlify.app) -> ( URL Shortener using Bitly API ) -> [view code](https://github.com/frontiago/sujeitolink)
-- [Crypto Prices](https://react-cryptoprices.netlify.app) -> ( See cryptocurrencies and prices ) -> [view code](https://github.com/frontiago/crypto-prices)
-- [Busca CEP](https://react-busca-cep.netlify.app) -> ( Search for brazilian postal code ) -> [view code](https://github.com/frontiago/busca-cep)
+
 
 ---
 
